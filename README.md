@@ -1,1 +1,2 @@
-# Project LEAF NOW
+# LeafNow
+Website for Plant Store Management 
